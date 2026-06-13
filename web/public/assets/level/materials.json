@@ -1,0 +1,235 @@
+{
+  "8": {
+    "diffuse": "scn8",
+    "emissive": "scn8_i"
+  },
+  "9": {
+    "diffuse": "scn9",
+    "emissive": "scn9_i"
+  },
+  "m_MvsScanner": {
+    "diffuse": "mvsscanner-flipbook"
+  },
+  "m_PhotonTorpedo": {
+    "diffuse": "PhotonTorpedoFlipbook"
+  },
+  "carpet": {
+    "diffuse": "Voygray"
+  },
+  "M_Metal_Brushed_Nickel": {
+    "diffuse": "T_MacroVariation"
+  },
+  "M_Metal_Gold": {
+    "diffuse": "T_Metal_Gold_D",
+    "normal": "T_Metal_Gold_N"
+  },
+  "M_Metal_Steel": {
+    "diffuse": "T_Metal_Steel_D",
+    "normal": "T_Metal_Steel_N"
+  },
+  "M_Wood_Oak": {
+    "diffuse": "T_Wood_Oak_D",
+    "normal": "T_Wood_Oak_N"
+  },
+  "M_Wood_Walnut": {
+    "diffuse": "T_Wood_Walnut_D",
+    "normal": "T_Wood_Walnut_N"
+  },
+  "Plaque": {
+    "diffuse": "T_Metal_Gold_D",
+    "normal": "T_Metal_Gold_N"
+  },
+  "Plaque2": {
+    "diffuse": "VP_bump"
+  },
+  "VoyagerGray": {
+    "diffuse": "Voygray"
+  },
+  "M_Burst": {
+    "diffuse": "T_Burst_M"
+  },
+  "M_explosion_subUV": {
+    "diffuse": "T_Explosion_SubUV"
+  },
+  "M_smoke_subUV": {
+    "diffuse": "T_Smoke_Tiled_D"
+  },
+  "10_1": {
+    "diffuse": "scn10_1",
+    "emissive": "scn10_1_i"
+  },
+  "10_2": {
+    "diffuse": "scn10_2",
+    "emissive": "scn10_2_i"
+  },
+  "10_3": {
+    "diffuse": "scn10_3",
+    "emissive": "scn10_3_i"
+  },
+  "10_4": {
+    "diffuse": "scn10_4",
+    "emissive": "scn10_4_i"
+  },
+  "10_5": {
+    "diffuse": "scn10_5",
+    "emissive": "scn10_5_i"
+  },
+  "10_6": {
+    "diffuse": "scn10_6",
+    "emissive": "scn10_6_i"
+  },
+  "1_1": {
+    "diffuse": "scn1_1",
+    "emissive": "scn1_1_i"
+  },
+  "1_2": {
+    "diffuse": "scn1_2",
+    "emissive": "scn1_2_i"
+  },
+  "1_3": {
+    "diffuse": "scn1_3",
+    "emissive": "scn1_3_i"
+  },
+  "1_4": {
+    "diffuse": "scn1_4",
+    "emissive": "scn1_4_i"
+  },
+  "1_5": {
+    "diffuse": "scn1_5",
+    "emissive": "scn1_5_i"
+  },
+  "1_6": {
+    "diffuse": "scn1_6",
+    "emissive": "scn1_6_i"
+  },
+  "1_7": {
+    "diffuse": "scn1_7",
+    "emissive": "scn1_7_i"
+  },
+  "2_1": {
+    "diffuse": "scn2_1",
+    "emissive": "scn2_1_i"
+  },
+  "2_2": {
+    "diffuse": "scn6_8",
+    "emissive": "scn6_8_i"
+  },
+  "2_3": {
+    "diffuse": "scn2_3",
+    "emissive": "scn2_3_i"
+  },
+  "2_4": {
+    "diffuse": "scn6_6",
+    "emissive": "scn6_6_i"
+  },
+  "2_5": {
+    "diffuse": "scn2_5",
+    "emissive": "scn2_5_i"
+  },
+  "2_6": {
+    "diffuse": "scn6_4",
+    "emissive": "scn6_4_i"
+  },
+  "2_7": {
+    "diffuse": "scn2_7",
+    "emissive": "scn2_7_i"
+  },
+  "2_8": {
+    "diffuse": "scn2_8",
+    "emissive": "scn2_8_i"
+  },
+  "3_2": {
+    "diffuse": "scn3_2",
+    "emissive": "scn3_2_i"
+  },
+  "3_3": {
+    "diffuse": "scn3_3",
+    "emissive": "scn3_3_i"
+  },
+  "3_4": {
+    "diffuse": "scn3_4",
+    "emissive": "scn3_4_i"
+  },
+  "4_1": {
+    "diffuse": "scn4_1"
+  },
+  "5_1": {
+    "diffuse": "scn5_1",
+    "emissive": "scn5_1_i"
+  },
+  "6_1": {
+    "diffuse": "scn6_1",
+    "emissive": "scn6_1_i"
+  },
+  "6_3": {
+    "diffuse": "scn2_9",
+    "emissive": "scn2_9_i"
+  },
+  "6_4": {
+    "diffuse": "scn6_4",
+    "emissive": "scn6_4_i"
+  },
+  "6_5": {
+    "diffuse": "scn6_5",
+    "emissive": "scn6_5_i"
+  },
+  "6_6": {
+    "diffuse": "scn6_6",
+    "emissive": "scn6_6_i"
+  },
+  "6_7": {
+    "diffuse": "scn6_7",
+    "emissive": "scn6_7_i"
+  },
+  "6_8": {
+    "diffuse": "scn6_8",
+    "emissive": "scn6_8_i"
+  },
+  "6_9": {
+    "diffuse": "scn6_9",
+    "emissive": "scn6_9_i"
+  },
+  "7_1": {
+    "diffuse": "scn7_1",
+    "emissive": "scn7_1_i"
+  },
+  "7_2": {
+    "diffuse": "scn7_2",
+    "emissive": "scn7_2_i"
+  },
+  "7_3": {
+    "diffuse": "scn1_3",
+    "emissive": "scn1_3_i"
+  },
+  "7_4": {
+    "diffuse": "scn7_4",
+    "emissive": "scn7_4_i"
+  },
+  "7_5": {
+    "diffuse": "scn7_5",
+    "emissive": "scn7_5_i"
+  },
+  "7_6": {
+    "diffuse": "scn7_6",
+    "emissive": "scn7_6_i"
+  },
+  "7_7": {
+    "diffuse": "scn7_7",
+    "emissive": "scn7_7_i"
+  },
+  "alertpanel": {
+    "diffuse": "scn3_1"
+  },
+  "BNC": {
+    "diffuse": "BNC"
+  },
+  "mainscreen": {
+    "diffuse": "MVS"
+  },
+  "mvs2": {
+    "diffuse": "mvs2"
+  },
+  "ComputerLogRenderTarget_Mat": {
+    "diffuse": "scn10_2_i"
+  }
+}

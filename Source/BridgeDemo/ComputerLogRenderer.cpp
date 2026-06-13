@@ -48,8 +48,8 @@ void AComputerLogRenderer::UpdateRenderTarget(float DeltaTime)
 	// int labelWidth, labelHeight;
 
 	// Create a Canvas and assign the render texture resource to it.
-	FTextureRenderTarget2DResource* RenderTextureResource = (FTextureRenderTarget2DResource*)RenderTarget->Resource;
-	FCanvas Canvas(RenderTextureResource, NULL, 0, 0, 0, ERHIFeatureLevel::SM5);
+	FTextureRenderTarget2DResource* RenderTextureResource = (FTextureRenderTarget2DResource*)RenderTarget->GetResource();
+	FCanvas Canvas(RenderTextureResource, NULL, GetWorld(), ERHIFeatureLevel::SM5);
 
 	// 0067AEFF
 	Canvas.Clear(FLinearColor::Black);

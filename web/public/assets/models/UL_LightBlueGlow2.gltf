@@ -1,0 +1,112 @@
+{
+  "asset" : {
+    "generator" : "UE Viewer (umodel) build 1590",
+    "version" : "2.0"
+  },
+  "scene" : 0,
+  "scenes" : [
+    {
+      "nodes" : [ 0 ]
+    }
+  ],
+  "nodes" : [
+    {
+      "name" : "UL_LightBlueGlow2",
+      "mesh" : 0
+    }
+  ],
+  "materials" : [
+    {
+      "name" : "dummy_material_0",
+      "pbrMetallicRoughness" : {
+        "baseColorFactor" : [ 0.3, 0.3, 0.3, 1.0 ],
+        "metallicFactor" : 0.1,
+        "roughnessFactor" : 0.5
+      }
+    }
+  ],
+  "meshes" : [
+    {
+      "primitives" : [
+        {
+          "attributes" : {
+            "POSITION" : 1,
+            "NORMAL" : 2,
+            "TANGENT" : 3,
+            "TEXCOORD_0" : 4
+          },
+          "indices" : 0,
+          "material" : 0
+        }
+      ],
+      "name" : "UL_LightBlueGlow2"
+    }
+  ],
+  "buffers" : [
+    {
+      "uri" : "UL_LightBlueGlow2.bin",
+      "byteLength" : 158400
+    }
+  ],
+  "bufferViews" : [
+    {
+      "buffer" : 0,
+      "byteOffset" : 0,
+      "byteLength" : 6336
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 6336,
+      "byteLength" : 38016
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 44352,
+      "byteLength" : 38016
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 82368,
+      "byteLength" : 50688
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 133056,
+      "byteLength" : 25344
+    }
+  ],
+  "accessors" : [
+    {
+      "bufferView" : 0,
+      "componentType" : 5123,
+      "count" : 3168,
+      "type" : "SCALAR"
+    },
+    {
+      "bufferView" : 1,
+      "min" : [ -6.86062, 0.00481944, -8.09553 ],
+      "max" : [ 6.64768, 1.32919, 6.00654 ],
+      "componentType" : 5126,
+      "count" : 3168,
+      "type" : "VEC3"
+    },
+    {
+      "bufferView" : 2,
+      "componentType" : 5126,
+      "count" : 3168,
+      "type" : "VEC3"
+    },
+    {
+      "bufferView" : 3,
+      "componentType" : 5126,
+      "count" : 3168,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 4,
+      "componentType" : 5126,
+      "count" : 3168,
+      "type" : "VEC2"
+    }
+  ]
+}
